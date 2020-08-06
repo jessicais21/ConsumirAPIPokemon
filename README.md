@@ -1,3 +1,3 @@
 # ConsumirAPIPokemon
 
-consome uma api pokemon em php
+Lê um arquivo JSON em php.
